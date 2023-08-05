@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipak-01
 - 👀 I’m interested in ...CODING    
-- 🌱 I’m currently learning ...C
+- 🌱 I’m currently learning ...JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ig-deepak.kurkute
 
