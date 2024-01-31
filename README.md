@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4 align="left">👀 I’m interested in ...CODING  </h4>   
  
-<h4 align="left">🌱 I’m currently learning ...JS </h4>
-<h4 align="left">💞️ I’m looking to collaborate on ... </h4>
+<h4 align="left">🌱 I’m currently learning ...NEXT and Backend </h4>
+<h4 align="left">💞️ I’m looking to collaborate on ...Next.js Projects </h4>
  
 
 
